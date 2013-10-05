@@ -16,6 +16,8 @@
  * @author     Ivan Chepurnyi <ivan.chepurnyi@ecomdev.org>
  */
 
+require_once '../app/code/core/Mage/Core/Model/Factory.php';
+require_once '../app/Mage.php';
 require_once 'abstract.php';
 
 /**
